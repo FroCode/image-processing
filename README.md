@@ -41,3 +41,6 @@ The project demonstrates fundamental operations in image processing using Python
 ```bash
 git clone https://github.com/FroCode/image-processing
 cd image-processing
+pip install -r requirements.txt
+python main.py
+
