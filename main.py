@@ -1,4 +1,3 @@
-# Step 1: Import necessary libraries
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -8,7 +7,6 @@ from io import BytesIO
 # Step 2: Print "Hello World"
 print("Hello World")
 
-# Step 3: Download and process the image
 url = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Das_Schwarze_Quadrat.svg/888px-Das_Schwarze_Quadrat.svg.png?20160209215932"
 # Fallback URL if the above fails
 fallback_url = "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png"
